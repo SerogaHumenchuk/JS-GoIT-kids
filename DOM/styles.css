@@ -1,0 +1,13 @@
+.mainDiv {
+  background-color: #ccc;
+}
+ul {
+  background-color: #aaa;
+}
+.img__dog {
+  width: 400px;
+  transition-duration: 1s;
+}
+.img__dog:hover {
+  width: 600px;
+}
