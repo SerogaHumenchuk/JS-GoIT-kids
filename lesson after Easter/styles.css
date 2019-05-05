@@ -1,0 +1,43 @@
+body {
+  background: #000;
+  color: #fff;
+  font-size: 28px;
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  margin: 10px;
+}
+.container {
+  width: 280px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+table {
+  width: 100%;
+}
+.num {
+  text-align: center;
+  background-color: #333;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.math {
+  text-align: center;
+  background-color: orangered;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+input {
+  height: 70px;
+  font-size: 60px;
+  width: 93%;
+  text-align: right;
+  border: 0;
+  background-color: #000;
+  color: #fff;
+  padding-right: 7%;
+  margin-bottom: 15px;
+}
