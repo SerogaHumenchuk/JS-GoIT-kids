@@ -30,6 +30,9 @@ table {
   height: 60px;
   border-radius: 50%;
 }
+.del {
+  font-size: 22px;
+}
 input {
   height: 70px;
   font-size: 60px;
@@ -40,4 +43,5 @@ input {
   color: #fff;
   padding-right: 7%;
   margin-bottom: 15px;
+  outline: 0;
 }
